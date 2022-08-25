@@ -23,5 +23,4 @@ go run terminal-wordle.go
 
 # Gameplay
 
-TODO
-- add screenshots
+![image](screenshot.png)
